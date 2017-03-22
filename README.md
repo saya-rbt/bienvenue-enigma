@@ -19,7 +19,7 @@ This one is even better. Here's a full list of what it does:
 Pure evil genius.
 
 ## Installation
-Put both files in C:\Users\[USERNAME]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+Put both files in C:\Users\\[USERNAME]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
 Replace [USERNAME] with your username, of course.
 
