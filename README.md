@@ -18,10 +18,15 @@ This one is even better. Here's a full list of what it does:
 
 Pure evil genius.
 
+## Installation
+Put both files in C:\Users\[USERNAME]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
+
+Replace [USERNAME] with your username, of course.
+
 ## How to stop
 There are several ways to stop it:
 * Press F4
-* Open the Task Manager with CTRL + SHIFT + ESC, search for Microsoft WScript or something like that (it has a pink and purple icon), and stop it
+* Open the Task Manager with CTRL + SHIFT + ESC, search for Microsoft Windows Based Script Host (it has a pink and purple icon), and stop it
 * Destroy your computer (not recommended)
 
 ## How to uninstall
